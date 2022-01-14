@@ -1,8 +1,10 @@
-How To Compile: 
+## How to compile
 
-javac ClassName 
-java ClassName
+>javac ClassName
+
+>java ClassName
 
 Example: 
-javac MathApp.java
-java MathApp
+>javac MathApp.java
+
+>java MathApp
